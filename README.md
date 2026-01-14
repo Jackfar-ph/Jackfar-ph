@@ -18,10 +18,10 @@
 ---
 
 ### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Jackfar-ph&show_icons=true&theme=radical" alt="Jackfar's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfar-ph&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
+
+![Jackfar's Stats](https://github-readme-stats.vercel.app/api?username=Jackfar-ph&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfar-ph&layout=compact&theme=dark)
 
 ---
 
