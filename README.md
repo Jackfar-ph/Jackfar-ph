@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jackfar 
+# 👋 Hi there, I'm Jackfar Sanidad
 
 ### 🚀 Full-Stack Developer | Creative Builder 
 
@@ -19,9 +19,9 @@
 
 ### 📊 My GitHub Stats
 
-![Jackfar's Stats](https://github-readme-stats.vercel.app/api?username=Jackfar-ph&show_icons=true&theme=dark)
+![Jackfar's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Jackfar-ph&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfar-ph&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jackfar-ph&layout=compact&theme=radical)
 
 ---
 
