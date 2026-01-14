@@ -19,9 +19,9 @@
 
 ### 📊 My GitHub Stats
 
-![Jackfar's Stats](https://github-readme-stats.vercel.app/api?username=Jackfar-ph&show_icons=true&theme=dark)
+![Jackfar's Stats](https://github-readme-stats.vercel.app/api?username=jackfar-ph&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfar-ph&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackfar-ph&layout=compact&theme=dark)
 
 ---
 
