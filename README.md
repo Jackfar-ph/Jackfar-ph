@@ -19,16 +19,10 @@
 
 ### 📊 My GitHub Stats
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jackfar-ph&show_icons=true&theme=radical" width="100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfar-ph&layout=compact&theme=radical" width="100%" />
-    </td>
-  </tr>
-</table>
+![Jackfar's Stats](https://github-readme-stats.vercel.app/api?username=Jackfar-ph&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfar-ph&layout=compact&theme=radical)
+
 ---
 
 ### 🤝 Connect with me
